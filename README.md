@@ -31,7 +31,7 @@ Link --> <a href="https://dev-web-desafio-amazing-graph.vercel.app/">AmazingGrap
 
 
 
-<img src="https://user-images.githubusercontent.com/63010902/127250262-e865d001-f014-4326-b408-1477af8af770.gif" alt="ProjetoAmazingGraphic" style="zoom: 45%;" />
+<img src="https://user-images.githubusercontent.com/63010902/127250262-e865d001-f014-4326-b408-1477af8af770.gif" alt="ProjetoAmazingGraphic" style="zoom: 33%;" />
 
 <h2>
     Imagens:
